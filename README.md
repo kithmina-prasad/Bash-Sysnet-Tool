@@ -44,7 +44,7 @@ The objective of this script is to build a lightweight Bash-based admin toolkit 
 3. Make the script executable:
     
     ```bash
-    chmod +x sysnet_tool.sh
+    chmod +x sysnet.sh
     ```
 
 ### Usage
@@ -52,7 +52,7 @@ The objective of this script is to build a lightweight Bash-based admin toolkit 
 1. Run the password generator script:
     
     ```bash
-    ./sysnet_tool.sh
+    ./sysnet.sh
     ```
 
 How the Script Works:
