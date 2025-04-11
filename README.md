@@ -1,6 +1,6 @@
 # SysNet Tool - BASH Script Lab
 
-### BASH Script Lab – Bash Script To Drop a list of IP Addresses
+BASH Script Lab – Bash Script To automate for network and system tasks.
 
 ## Objective
 
