@@ -1,4 +1,4 @@
-# SysNet Tool - BASH Script Lab
+# 🔧 SysNet Tool - BASH Script Lab 🎉
 
 BASH Script Lab – Bash Script To automate for network and system tasks.
 
@@ -15,7 +15,7 @@ The objective of this script is to build a lightweight Bash-based admin toolkit 
 - Resource Monitoring with CLI tools
 - Network Connectivity Debugging
 
-### Tools Used
+### Prerequisites
 
 - Linux Terminal Command Line Interface (CLI)
 - Bash Shell
@@ -23,12 +23,40 @@ The objective of this script is to build a lightweight Bash-based admin toolkit 
 - Networking Commands: ping, ifconfig, iptables, ss, free, df, uptime, ip
 - VMware Tools: Linux VM
 
-### STEPS
+### Get started
 
 ![script](https://github.com/user-attachments/assets/2d9eff3f-cbd8-49eb-9c46-1437a354219d)
 
+### Installation
+
+1. Clone the repository:
+    
+    ```bash
+    git clone https://github.com/Asela0522/Bash-Sysnet-Tool
+    ```
+
+2. Navigate to the project directory:
+    
+    ```bash
+    cd bash-sysnet-tool
+    ```
+
+3. Make the script executable:
+    
+    ```bash
+    chmod +x sysnet_tool.sh
+    ```
+
+### Usage
+
+1. Run the password generator script:
+    
+    ```bash
+    ./sysnet_tool.sh
+    ```
 
 How the Script Works:
+
 1.	User Menu Interface:
 A simple command-line menu using select or case lets the admin choose between different functions.
 2.	Function Definitions:
@@ -56,5 +84,12 @@ The script needs to be run with superuser privileges (sudo) because modifying ip
 -	Creating quick, automated scripts for block IPs, check health stats, or test connectivity.
 -	Automate repetitive diagnostic tasks.
 -	Managing central monitoring in Linux servers, especially in web servers, databases, or firewalls.
+
+
+## Contributing
+
+Contributions are welcome! If you’d like to improve the project, feel free to fork the repository, create a new branch, and submit a pull request.
+
+
 
 
