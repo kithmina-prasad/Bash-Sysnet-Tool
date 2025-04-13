@@ -1,4 +1,4 @@
-# 🔧 SysNet Tool - BASH Script Lab 🎉
+# 🔧 SysNet Tool - BASH Script 
 
 BASH Script Lab – Bash Script To automate for network and system tasks.
 
