@@ -32,7 +32,7 @@ The objective of this script is to build a lightweight Bash-based admin toolkit 
 1. Clone the repository:
     
     ```bash
-    git clone https://github.com/Asela0522/Bash-Sysnet-Tool
+    git clone https://github.com/kithmina-prasad/Bash-Sysnet-Tool
     ```
 
 2. Navigate to the project directory:
